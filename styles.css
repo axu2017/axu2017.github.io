@@ -1,0 +1,46 @@
+@font-face {
+  font-family: "Computer Modern";
+  src: url('cmunrm.ttf') format('truetype');
+}
+
+body {
+  font-family: "Computer Modern";
+  padding:50px;
+}
+
+.wrapper {
+  width:1050px;
+  height: 350px;
+  margin:0 auto;
+}
+
+.vl {
+  border-left: 3px solid #B31B1B;
+  position:fixed;
+  height: 80%;
+}
+
+header {
+  width:270px;
+  height: 500px;
+  float:left;
+  position:fixed;
+}
+
+section {
+  width:750px;
+  height: 200px;
+  position:fixed;
+  float:right;
+  padding-top: 65px;
+  padding-left: 240px;
+  padding-right: 50px;
+}
+
+.sectionc {
+  width:750px;
+  position:fixed;
+  float:left;
+  padding-left: 55px;
+  padding-right: 50px;
+}
