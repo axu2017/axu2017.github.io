@@ -8,10 +8,10 @@ body {
   padding:50px;
 }
 
-.wrapper {
+.sectiont {
   width:1050px;
   height: 350px;
-  margin:0 auto;
+  padding-left: 55px;
 }
 
 .vl {
@@ -37,7 +37,7 @@ section {
   padding-right: 50px;
 }
 
-.sectionc {
+.sectionb {
   width:750px;
   position:fixed;
   float:left;
